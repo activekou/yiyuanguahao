@@ -18,19 +18,18 @@
 
 
 ## 技术栈
-后端：Spring Boot, Spring Security, JPA, Hibernate
-前端：HTML, CSS, JavaScript (可选：Vue.js, React)
+后端：Spring Boot, Mybatis
+前端：HTML, CSS, JavaScript 
 数据库：MySQL
 开发工具：IntelliJ IDEA, Postman
-功能介绍
+## 功能介绍
 用户端：
-
 注册、登录
 浏览医生信息和排班
 预约挂号，查看预约记录
 进行线上支付
-管理员端：
 
+管理员端：
 管理医生信息
 管理排班
 查看患者挂号记录
