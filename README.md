@@ -49,7 +49,7 @@ git clone https://github.com/activekou/yiyuanguahao.git
 打开浏览器，访问 http://localhost:8080。
 
 ## 联系方式
-如果您对项目有任何问题或建议，欢迎通过以下方式与我联系：
+如果您对项目有任何问题或需要定制开发，欢迎通过以下方式与我联系：
 ### wei: lettle_313976971
 ### qq: 313976971
 ## 免责声明
