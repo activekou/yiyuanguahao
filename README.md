@@ -51,8 +51,8 @@ git clone https://github.com/activekou/yiyuanguahao.git
 
 ## 联系方式
 如果您对项目有任何问题或建议，欢迎通过以下方式与我联系：
-wei: lettle_313976971
-qq: 313976971
+### wei: lettle_313976971
+### qq: 313976971
 ## 免责声明
 此项目仅作为个人毕设展示，禁止用于商业用途。如有任何版权问题，请及时联系我。
 
